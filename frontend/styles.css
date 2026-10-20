@@ -398,7 +398,3 @@ footer{
 .lixeira:hover{
     transform: scale(1.1);
 }
-
-dialog::backdrop {
-    backdrop-filter: blur(4px);
-}
